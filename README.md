@@ -14,5 +14,5 @@ Desktop-style AR TUBE for Termux:X11.
 
 ## Run
 ```bash
-bash install.sh
+pkg update -y && pkg install git -y && git clone https://github.com/abdulrafepeerzade38-afk/AR-TUBE.git ~/AR-TUBE && cd ~/AR-TUBE && bash install.sh
 ```
