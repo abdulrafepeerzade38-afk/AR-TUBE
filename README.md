@@ -14,6 +14,5 @@ Desktop-style AR TUBE for Termux:X11.
 
 ## Run
 ```bash
-export DISPLAY=:1
-bash desktop.sh
+bash install.sh
 ```
